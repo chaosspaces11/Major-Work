@@ -1,0 +1,39 @@
+body {
+     margin:0;
+}
+
+#customisation{
+    margin: 0px;
+    padding: 0px;
+    width: 1180px;
+    min-width: 900px;
+    /* align-content: right;
+    position: right; */
+    float: right;
+}
+
+#designbar{
+    height: 640px;
+    min-height: 608px;
+    max-height: 640px;
+}
+
+#toolbar{
+    /* border-bottom: 1px solid black; */
+    height: 100%;
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    float: left;
+    position: fixed;
+}
+
+#simbar {
+    /* border-top: 2px solid black; */
+    height: 160px;
+    min-height: 160px;
+    max-height: 160px;
+    background-color: greenyellow;
+}
+
+p{margin:0px;}
